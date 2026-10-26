@@ -1,6 +1,6 @@
 ---
 title: The Era of Agent：拾象 AGI 投资洞察
-publish_date: unknown
+publish_date: '2026-05-16'
 mp_name: 海外独角兽
 url: https://mp.weixin.qq.com/s/-YbLQ2kuolHaXxqkL9mpTw
 msgid: 2247523912
@@ -12,7 +12,7 @@ image_count: 35
 archived_at: '2026-10-26T18:55:02+08:00'
 ---
 
-[![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/001.png)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTY0MDk0NQ==&action=getalbum&album_id=4157672299245862924&scene=21#wechat_redirect)
+[![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/001.png)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTY0MDk0NQ==&action=getalbum&album_id=4157672299245862924&scene=21#wechat_redirect)
 
 作者：Guangmi，Penny，Cage，Haina，Feihong，Siqi
 
@@ -36,11 +36,11 @@ Anthropic 在 Coding 上的领先、OpenAI 和 Google 前期的战略失焦，�
 
 **Coding Agent 是科技史上增速最快的新物种**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/002.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/002.png)
 
 All in Coding Agent 是今年以来的头部 AI labs 的最强共识。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/003.jpg)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/003.jpg)
 
 2025 年 Coding 只是 Anthropic 一家的 bet 之一，各个 AI Labs 各有侧重，Google 看重多模态能力，而 OpenAI 致力于 consumer 场景的体验。那么到了今年，Coding 成了大力所有 labs 都要重点投入的方向。
 
@@ -52,11 +52,11 @@ Coding Agent 不是简单之于 Chat 的产品和交互升级，而是一个已�
 
 **•**Chat 让智能交互，Agent 则是通过多轮、长程任务把刺激放大
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/004.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/004.png)
 
 Anthropic 发布 Opus 4.5 是这个跃迁的关键拐点。Opus 4.5 在发布当时虽然没有引起特别多的讨论，但它本质上是一个类似 GPT-3 到 GPT-4 的跨代际模型，让大众真正从 chat 模式切换到 agent 模式。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/005.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/005.png)
 
 当然，也因为 Coding Agent，市场的注意力超前得集中到了 Anthropic，但我们认为模型竞争交替领先的趋势在 3-5 年不会变，随着 OpenAI、Gemini 在 Coding 的投入加重， “2025 年的 Google 时刻”至少会在 [OpenAI](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247520859&idx=1&sn=3306bd85aeba655abd653dd59d15dce2&scene=21#wechat_redirect) 上重演。
 
@@ -64,11 +64,11 @@ Anthropic 发布 Opus 4.5 是这个跃迁的关键拐点。Opus 4.5 在发布当
 
 另外值得强调的是，即便还是 Coding 本身，各个 AI Labs 也会有细微的侧重差异，例如不少开发者提过 “CodeX 明显更聪明，而 Claude Code 要更加‘好用’ ”。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/006.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/006.png)
 
 **为什么所有 AI labs 都要下注 Coding**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/007.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/007.png)
 
 我们在[2025 年初](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247511894&idx=1&sn=a7d4a28a84ab923d23bd3e2c47c0760a&scene=21#wechat_redirect)第一次提及 AI Coding 的重要性：Coding 的意义不仅仅在于编程这个垂直任务，而是实现 AGI 的最好环境。
 
@@ -78,7 +78,7 @@ Anthropic 发布 Opus 4.5 是这个跃迁的关键拐点。Opus 4.5 在发布当
 
 2. Coding 能力的提升不止是带来 ARR 大爆发，还会让 AI Labs 直接受益：在 Coding Agent 的辅助下，AI Labs 无论是在产品侧还是模型开发，都明显开始加速。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/008.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/008.png)
 
 Source: Anthropic Opus 4.6 Blog
 
@@ -90,7 +90,7 @@ Source: Anthropic Opus 4.6 Blog
 
 **做好 Coding 没有技术秘密**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/009.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/009.png)
 
 虽然 Coding 至关重要，但过去半年，Google 和 OpenAI 都出现过对 Coding 优先级的重大战略误判：忙于争抢 C 端，给了 Anthropic 抢跑窗口。不过目前各家前沿 AI Labs 都将 Coding 提到了最高优先级，在这样的背景下，判断 AI Labs 竞争终局的关键变量就变成了“做好 Coding”这件事本身的难度系数。
 
@@ -130,13 +130,13 @@ Meta 是在 LLM 上的重注市场有目共睹：通过大规模收购和过去�
 
 但就当前来看，这些 Neo Labs 站上竞赛牌桌，尤其是进入第一梯队属低概率事件。一方面，它们的范式探索才刚开始，方向尚未被验证，另一方面，市场上资本与 GPU 供给已被头部公司垄断，后者是限制 Neo Labs 的最现实的因素。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/010.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/010.png)
 
 **模型终局：新一代 OS**
 
 在[第一次发布](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247501241&idx=1&sn=aa2046e1cb75cb21b703805f294b6d5c&scene=21#wechat_redirect)大模型投资报告时，我们提出大模型会成为 Windows 95 级别的新一代计算平台，而到今天，这一定位可以更加具象，即今天模型公司的形态看似多样，有个人助理、工作助理、Chatbot、Agent，但本质上都在争夺新一代 OS 的位置，人类的生活咨询、工作生产力、科研获取等都会围绕模型展开。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/011.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/011.png)
 
 如果 LLM+Agent 是新一代 OS，那么参考 OS 竞争格局，我们也可以推演出 LLM 的竞争状态。OS 是一个典型的少数赢家占据核心入口的市场状态，全球范围内 OS 级产品屈指可数，Android（～46%），Windows （～30%）、iOS（～20%）、以及微信这样类 OS 的超级 APP。今天最领先的模型公司一定是 Agent 时代的 OS。
 
@@ -148,7 +148,7 @@ Anthropic 在 Coding Agent 上的胜利，叠加今年以来 OpenAI 的组织大
 
 **Anthropic：战略聚焦的胜利**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/012.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/012.png)
 
 Anthropic 最值得关注的是它两年前就 all in Coding，但这一战略并非 Anthropic 从 Day 1 就想清楚的，而是 C 端窗口关闭，并且叠加 2024 年夏天 Sonnet 3.5 获得强反馈之后，在摸索中逐步收敛形成的。
 
@@ -164,7 +164,7 @@ Anthropic 的聚焦具体可以体现在以下几个层面：
 
 **OpenAI：正在被市场低估**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/013.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/013.png)
 
 虽然前半年 OpenAI 经历了组织变动，并因为战略失焦被 Anthropic 快速追赶，但整体上优势仍旧[很明显](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247520859&idx=1&sn=3306bd85aeba655abd653dd59d15dce2&scene=21#wechat_redirect)：
 
@@ -186,7 +186,7 @@ OpenAI 真正的问题是战略上的误判：公司长期非常重视 ChatGPT �
 
 **Google：最稳定的追随者，但也最慢**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/014.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/014.png)
 
 去年底 Google 通过 Gemini 3 向市场证明了自身并非 AI loser，股价由此翻倍，借助 Google 强大的分发能力，Gemini MAU 追赶上了。不过，虽公开 Benchmark 成绩亮眼，但 Gemini 3 带来的 C 端增长并不持续，截止 2 月，Gemini 的增速已经降到 13%。
 
@@ -208,7 +208,7 @@ OpenAI 真正的问题是战略上的误判：公司长期非常重视 ChatGPT �
 
 在过去 2 年，我们谈到 AI 公司策略、观察 AI 公司产品进度时，仍会看重 DAU、ARPU、MAU 等互联网时代沉淀下来的指标。如今的市场坐标系不应该再沿用 To B / To C，而应该重新以服务对象 To Human / To Agent 来划分。要探索 Agent-native 的时代的机会一定要[新地图](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523739&idx=1&sn=5489fa80a4602d5960b71a4bdea41241&scene=21#wechat_redirect)。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/015.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/015.png)
 
 SaaS 时代软件的 GTM 路径可以相对清晰地分为 PLG（application 类软件为主） 和 to Enterprise，但 AI 工具的普及顺序已经普遍个人先付费、公司 IT 预算随后追入，同一款产品同时服务“个人工作流”与“组织工作流”，To B 与 To C 的传统边界已经模糊，而这些 AI 工具的统一特征都是 to Prosumer，或为知识工作者设计。
 
@@ -224,13 +224,13 @@ SaaS 时代软件的 GTM 路径可以相对清晰地分为 PLG（application 类
 
 另一方面，agent 已经开始以独立主体的身份进入经济系统：Cloudflare 上周宣布允许 agent 直接创建账号、开通付费订阅、注册域名、拿到 API token 部署代码，这是 agent 第一次以独立客户身份进入云服务商的客户体系，自己开户、自己付费、自己消费资源；叠加此前的 pay-per-crawl（对 AI 爬虫单独定价收费），agent 既是付费客户，也是被独立计费的流量主体。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/016.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/016.png)
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/017.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/017.png)
 
 **Agent = Model + Harness**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/018.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/018.png)
 
 Harness 是贯穿 Q1 的 Buzz Word，这个词之所以被大量讨论本质上也和 Agent 相关。
 
@@ -242,7 +242,7 @@ Agent= Model + Harness，除模型本身外的所有工程封装，都可以归�
 
 **Why Now：Agent 设计哲学发生了根本转变**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/019.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/019.png)
 
 Harness 的“流行”背后是 Agent 的设计哲学的根本性转变，这一转变本质上是对模型的信任度之争：两年前以 LangChain 为代表的主流方案用大量 rule-based 逻辑做控制，通过 chain 把任务串起来，本质是不信任模型能力、用规则兜底。而 Anthropic 的 Harness 理念恰恰相反，充分信任模型，把 Harness 做到极简。
 
@@ -260,7 +260,7 @@ Anthropic 的商业模式也随之发生结构性转变，Managed Agents 是 Ant
 
 和 LLM 领域不同，Robotics 目前的路线还没收敛，在“GPT-3 时刻”到来之前，今天的大量创新尝试最终会被抹平。从硅谷头部机器人实验室和团队的工作方向来看，2026 年将是机器人数据 Scaling 的大年。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/020.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/020.png)
 
 全局来看，整个机器人数据体系可以用一个金字塔框架来理解，底层到顶层也可以分别对应 LLM 训练的不同阶段，这个框架可以帮助我们理解为什么 2026 会成为机器人数据 scaling 大年：
 
@@ -286,7 +286,7 @@ UMI  数据成本与规模化程度介于 egocentric data 与真机数据之间
 
 **Hardware is All You Need**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/021.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/021.png)
 
 过去硅谷普遍奉行 AI first，但近期越来越多公司与研究员意识到：AI 落地必须依靠硬件。对机器人公司而言，AI first 与硬件 first 本质是同一件事，硬件不只是部署载体，更直接决定能否高质量规模化产生数据，进而影响模型训练与落地效果。
 
@@ -298,7 +298,7 @@ UMI  数据成本与规模化程度介于 egocentric data 与真机数据之间
 
 **技术趋势：从 VLA 转向 World Model Policy**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/022.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/022.png)
 
 在技术路径上，机器人行业正从 VLA 转向 World Action Model，背后有四方面原因：
 
@@ -320,13 +320,13 @@ UMI  数据成本与规模化程度介于 egocentric data 与真机数据之间
 
 **类型 1：追寻下一个范式**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/023.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/023.png)
 
 第一类 Neo Labs 的核心目标是追寻下一个范式。从历史规律看，AI 的范式更迭会反复触发“老核心团队出走、新 Lab 创立”的过程，几乎形成一条可复制的路径。
 
 今天最明确的、值得 all-in 的新范式是 Continual Learning，虽然目前还没有明确技术路线，但业界已形成几个公认的关键点：模型要在交互中持续进步、数据效率要高、需要新架构、pre-training 到 post-training 的算法要统一。
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/024.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/024.png)
 
 这一路线下的代表公司是前 OpenAI reasoning 负责人 Jerry Tworek 创立的 Core Automation。
 
@@ -336,7 +336,7 @@ Core Automation 是 Jerry Tworek 在 2026 年 1 月离开 OpenAI 后创立的 AI
 
 **路线 2：专注高价值 Vertical 领域**
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/025.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/025.png)
 
 第二类 Neo Labs 是硅谷基金目前更偏好的方向，同样是明星团队，但有明确要解决的高价值问题，且与头部三家形成清晰差异化。目前 Agentic 能力的提升正在为高价值、高精尖领域打开创业机会，芯片设计、AI for Science、高温超导材料等方向的潜在回报，或许远高于“覆盖面广但有大量免费用户”的大众场景。
 
@@ -344,32 +344,32 @@ Core Automation 是 Jerry Tworek 在 2026 年 1 月离开 OpenAI 后创立的 AI
 
 延伸阅读
 
-[![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/026.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523769&idx=1&sn=30ad3042cd0523c0859c0c3dd466d5f9&scene=21#wechat_redirect)
+[![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/026.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523769&idx=1&sn=30ad3042cd0523c0859c0c3dd466d5f9&scene=21#wechat_redirect)
 
 深度讨论新一轮模型发布：当智能进入月更时代 | Best Ideas
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/027.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/027.png)
 
-[![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/028.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523739&idx=1&sn=5489fa80a4602d5960b71a4bdea41241&scene=21#wechat_redirect)
+[![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/028.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523739&idx=1&sn=5489fa80a4602d5960b71a4bdea41241&scene=21#wechat_redirect)
 
 Agent 时代启示录: 当 Agent 作为新物种加入经济系统
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/029.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/029.png)
 
-[![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/030.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523704&idx=1&sn=1f7fa8ee26264d9b8d5644089e53acb8&scene=21#wechat_redirect)
+[![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/030.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523704&idx=1&sn=1f7fa8ee26264d9b8d5644089e53acb8&scene=21#wechat_redirect)
 
 Resolve AI：为什么 AI SRE 领域有望诞生下一代 Datadog
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/031.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/031.png)
 
-[![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/032.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523665&idx=1&sn=b607c984c18bc1034b07686a4902166d&scene=21#wechat_redirect)
+[![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/032.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523665&idx=1&sn=b607c984c18bc1034b07686a4902166d&scene=21#wechat_redirect)
 
 为什么「高价值任务」成了所有 AI Labs 的T0 级战略？｜ 拾象 AGI 备忘录
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/033.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/033.png)
 
-[![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/034.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523621&idx=1&sn=f4fc598883044147f69ed1ff44ac25e8&scene=21#wechat_redirect)
+[![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/034.png)](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523621&idx=1&sn=f4fc598883044147f69ed1ff44ac25e8&scene=21#wechat_redirect)
 
 硅谷火了一年的 AI Roll-Up，正在把“买公司”变成新的 AI 创业模式
 
-![](./images/unknown-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/035.png)
+![](./images/2026-05-16-the-era-of-agent-shi-xiang-agi-tou-zi-dong-cha/035.png)
